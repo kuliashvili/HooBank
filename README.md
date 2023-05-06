@@ -1,6 +1,6 @@
 # HooBank
 <h1> HooBank,  Next-gen payment method for fast and secure transactions </h1>
-<h2>Navbar, Hero, Billing and Stats Components are already ready :) 6 more</h2>
+<h2>Navbar, Hero, Testimonials, Billing and Stats Components are already ready :) 5 more</h2>
 <h4>Dear GitHub Community,
 
 I am pleased to announce that we have commenced work on a new project, and we are excited to share our progress with you. At this point in time, we are at the beginning stages of the project and are in the process of creating the initial framework.

@@ -12,5 +12,9 @@ We will continue to keep the GitHub community updated on our progress, and we we
 Sincerely,
 
 George
+
+
+
+<h6>gradients: Testimonials, Billing, Hero</h6>
 </h4>
 

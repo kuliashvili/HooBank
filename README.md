@@ -4,7 +4,7 @@ Welcome to the Hoobank GitHub repository! As the lead developer of this project,
 
 ## Overview
 
-Hoobank is a cutting-edge platform that offers seamless payment transactions to users around the world. The website features a stunning, responsive design that looks great on all devices, from desktop computers to mobile phones.
+Hoobank is a cutting-edge platform that offers seamless payment transactions to users around the world. The website features a stunning, responsive design that looks great on all devices, from desktop computers to mobile phones
 
 ## Contact Us
 
